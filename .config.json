@@ -1,0 +1,11 @@
+{
+    "test": {
+        "git-branch": "develop"
+    },
+    "qa": {
+        "git-branch": "release"
+    },
+    "prod": {
+        "git-branch": "master"
+    }
+}
